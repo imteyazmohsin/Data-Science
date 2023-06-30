@@ -1,1 +1,1 @@
-# Week 6 Peer grade assignment for IBM Data Science Profession Certificate
+# Week 6 Peer grade assignment for IBM Data Science Professional Certificate
